@@ -40,9 +40,9 @@ content: "●";
   font-weight: bold;
   color: rgb(97, 206, 249);
 }
-.content img {
+.contents img {
   margin: 10px 0px;
-  flex-basis: 70%;
+  width: 70%;
 }
 footer {
   background-color: rgb(244, 79, 79);
